@@ -1,4 +1,4 @@
-Crime Rate Data Analysis in Los Angeles
+## **Crime Rate Data Analysis in Los Angeles**
 
 -By Monika Alla
 
